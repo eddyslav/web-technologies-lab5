@@ -1,0 +1,25 @@
+.container {
+  background-color: #f7f7f7f7;
+
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cta-button {
+  display: inline-block;
+
+  text-decoration: underline;
+  font-size: 1rem;
+  font-weight: 600;
+
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+
+  color: #495057;
+
+  margin-top: 1.2rem;
+}
